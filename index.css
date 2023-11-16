@@ -1,0 +1,39 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
+
+#increment-btn {
+  background-color: darkgreen;
+}
+
+#decrease-btn {
+  background-color: darkred;
+}
+
+#save-btn {
+  background-color: darkgrey;
+}
